@@ -1,0 +1,137 @@
+
+
+
+.contenedor5{
+     padding:10px;
+	 margin:auto;
+	 width:900px;
+	 text-align: center;
+
+
+}
+
+.pic1 {
+
+
+     text-align: center;
+	 border-radius: 300px;
+	 
+}
+
+
+.nombreyapellidotitle{
+
+	font-size:60px;
+	text-align: center;
+
+}
+
+
+
+.texto{
+	
+    padding-top:20px;
+    padding-right: 40px;
+    padding-left: 40px;
+	margin-right:40px;
+	margin-left:40px;
+	margin-bottom:-50px;
+	font-size:30px;
+	
+}
+
+.habilidades{
+	font-size:40px;
+	float:left;
+	margin-left:40px;
+	margin-top: -70px;
+	margin-bottom: 40px;
+}
+
+.barra1{
+	background-color:#939293;
+	width:800px;
+	height:80px;
+	margin-top:150px;
+	margin-left:40px;
+	padding-bottom:40px;
+	text-align: left;
+
+}
+
+.text1{
+	
+	color:white;
+	font-size: 25px;
+	padding-top:50px;
+	margin-left:50px;
+
+
+}
+
+.barra2{
+	background-color:#939293;
+	width:550px;
+	height:80px;
+	margin-top:100px;
+	margin-left:40px;
+	padding-bottom:40px;
+	text-align:left;
+
+}
+
+.text2{
+	
+	color:white;
+	font-size: 25px;
+	margin-right:95px;
+	margin-top:-80px;
+
+}
+.barra3{
+	background-color:#939293;
+	width:300px;
+	height:80px;
+	margin-top:90px;
+	margin-left:40px;
+	padding-bottom: 40px;
+	text-align: left;
+}
+
+.text3{
+	
+	color:white;
+	font-size:25px;
+	margin-right:95px;
+	margin-top:-80px;
+    
+
+
+}
+
+.portafolio{
+	font-size:40px;
+	margin-left: 35px;
+	margin-top: 80px;
+	margin-bottom: 40px;
+	text-align: left;
+
+	
+}
+
+.porta{
+
+	
+	margin-right:30px;
+
+}
+
+.imagen1{
+    width:260px;
+    height:260px;
+    position: relative;
+    margin-left:20px;
+    float: left;
+ 
+}
+

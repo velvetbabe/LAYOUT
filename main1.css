@@ -1,0 +1,157 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+
+.containerphoto{
+	  
+      margin-left: auto;
+      margin-right: auto;
+	  width:1200px;
+
+}
+
+body{
+	background-color:#F5FFFC;
+	margin:60px;
+}
+
+
+
+h1{
+	color:black;
+}
+
+
+.barra{
+     height:65px;
+}
+
+nav{
+	font-size:25px;
+	margin:-10px;
+	margin-bottom:10px;
+	width:700px;
+	text-align:center;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+nav a {
+	text-decoration: none;
+}
+ul{
+	margin-right:70px;
+	text-align: center;
+	margin-top: 50px;
+	list-style: none;
+}
+ul li {
+	float: left;
+}
+
+.guion1{
+	
+	 border-bottom:2px solid yellow;
+	 width:100px;
+	 color:yellow;
+	 margin:80px;
+	 margin-bottom: -40px;
+	 margin-left: 530px;
+	 position: absolute;
+
+}
+
+
+.guion2{
+
+	 border-bottom:2px solid yellow;
+	 width:100px;
+	 color:yellow;
+	 margin-top: 10px;
+	 margin-left: 530px;
+	 padding-bottom: -60px;
+	 position: absolute;
+	
+}
+
+
+.negrito{
+	    background-color:black;
+	    border:1px solid black;
+	    width:100px;
+	    height:5px;
+	    margin:10px;
+	    margin-left: 100px;
+	    margin-top: 90px;
+	    float:left;
+
+        }
+
+.h1{
+
+	    margin-bottom: 90px;
+	    margin-top:100px;
+	    font-size: 18px;
+	
+}
+ .parrafo{
+ margin-top:50px;
+ width:400px;
+ padding:80px;
+ position: relative;
+ font-size: 25px;
+ }
+
+.maincontenedor{
+	    height:300px;
+	    margin:auto;
+	    position: relative;
+	    margin-right: 80px;
+}
+
+.photo1 {
+	   display:inline-block;
+	   position: relative;
+	   width:150px;
+	   margin-top:60px;
+	   margin-left:100px;
+	   padding:auto;
+	   right:30px;
+
+       }
+
+.foto{
+       display:inline-block;
+	   position: relative;
+	   width:318px;
+	   margin-top:60px;
+	   margin-right:-90px;
+	   margin-left:25px;
+
+	   
+	  }
+
+
+.container2{
+	margin-top: 0px;
+	bottom: 0px;
+}
+
+.nuestrascoders{
+	margin-right:800px;
+	margin-top: 60px;
+
+}
+
+
+.blackbox{
+
+	color:black;
+	width:70px;
+	border:2px solid black;
+	margin-left: -950px;
+	margin-top: 20px;
+}
+
