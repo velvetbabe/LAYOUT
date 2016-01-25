@@ -128,7 +128,7 @@ p{
 
 
 .photo1 {
-	display:inline-block;
+	   display:inline-block;
 	   position: relative;
 	   width:130px;
 	   margin: auto;
@@ -137,6 +137,7 @@ p{
 	   margin-right: -300px;
 	   left: 200px;
        }
+
 
 
 #container2{
@@ -153,5 +154,12 @@ h3{
 	    color:yellow;
 	    text-align: right;
 }
-#container{
+.foto{
+	    margin-left:-300px;
 }
+
+.p {
+	   margin-left:-300px;
+	   margin-top:-30px;
+	   position: relative;
+	   top:-90px;
